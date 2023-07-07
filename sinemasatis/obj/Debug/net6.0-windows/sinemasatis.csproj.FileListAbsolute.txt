@@ -1,0 +1,17 @@
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\bin\Debug\net6.0-windows\sinemasatis.exe
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\bin\Debug\net6.0-windows\sinemasatis.deps.json
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\bin\Debug\net6.0-windows\sinemasatis.runtimeconfig.json
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\bin\Debug\net6.0-windows\sinemasatis.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\bin\Debug\net6.0-windows\sinemasatis.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\sinemasatis.csproj.AssemblyReference.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\sinemasatis.Form1.resources
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\sinemasatis.csproj.GenerateResource.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\sinemasatis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\sinemasatis.AssemblyInfoInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\sinemasatis.AssemblyInfo.cs
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\sinemasatis.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\sinemasatis.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\refint\sinemasatis.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\sinemasatis.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\sinemasatis.genruntimeconfig.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\sinemasatis\sinemasatis\obj\Debug\net6.0-windows\ref\sinemasatis.dll
